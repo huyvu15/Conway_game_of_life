@@ -28,3 +28,12 @@ generation.
 Link tham khảo game:
 - https://playgameoflife.com
 - https://notes.huy.rocks/posts/game-of-life.html
+- https://conwaylife.com 
+- Data_Structures_and_Algorithms_Rance_D_N.pdf(Sách của Rance Neicaise trang 58)
+
+# Bonus
+- Do ngồi fit bug nhiều quá lười viết hàm nhập vào tọa độ ô sống
+- Hiện tại vẫn chưa nghĩ ra cách nào để nhập vào tọa độ ô sống mong muốn (nhập từng tọa độ 1 thì lâu quá trong khi người dùng chỉ
+muốn chọn trực tiếp ô thay vì phải chạy qua từng ô 1 trong lưới
+- Ai thiện chí có thể tham khảo code của mình rồi đưa ra lời khuyên
+- Chương trình chưa tối ưu, một số hàm ko dùng đến nhưng vẫn cho vào để đảm bảo đủ hàm theo hướng dẫn

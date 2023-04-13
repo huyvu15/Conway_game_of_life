@@ -39,3 +39,4 @@ muốn chọn trực tiếp ô thay vì phải chạy qua từng ô 1 trong lư�
 - Chương trình chưa tối ưu, một số hàm ko dùng đến nhưng vẫn cho vào để đảm bảo đủ hàm theo hướng dẫn
 - Chương trình chỉ là thuật toán bên trong trò chơi chưa áp dụng GUI, users có thể fork về sử dụng thư viện **Life** của tác giả để tạo GUI  
 > > py -m pip install life
+- À với nữa là do ko có hàm nhập tọa độ ô sống nên là run code chịu khó lấy tọa độ ô tế bào sống ở trong bộ test nhé :)))

@@ -37,3 +37,5 @@ Link tham khảo game:
 muốn chọn trực tiếp ô thay vì phải chạy qua từng ô 1 trong lưới
 - Ai thiện chí có thể tham khảo code của mình rồi đưa ra lời khuyên
 - Chương trình chưa tối ưu, một số hàm ko dùng đến nhưng vẫn cho vào để đảm bảo đủ hàm theo hướng dẫn
+- Chương trình chỉ là thuật toán bên trong trò chơi chưa áp dụng GUI, users có thể fork về sử dụng thư viện của tác giả để tạo GUI
+- 

@@ -1,4 +1,4 @@
-# Conway_game_of_life
+# Conway_game_of_life(Algorithm)
 Sự tiến hóa của tế bào (cell) qua các thế hệ
 # 2.5.1 Rules of the Game
 The game uses an infinite-sized rectangular grid of cells in which each cell is either
@@ -20,6 +20,11 @@ alive in the next generation. All other dead cells remain dead in the next
 generation.
 
 ## Some description(Rules)
-![b](https://www.researchgate.net/publication/339605473/figure/fig5/AS:869062565437443@1584212070801/Rules-of-Conways-Game-of-Life.png)  
+![b](https://www.mdpi.com/micromachines/micromachines-09-00339/article_deploy/html/images/micromachines-09-00339-g001.png)  
 ## Active
 ![b](https://jimblackler.net/blog/wp-content/uploads/2014/10/bigpic.png)
+
+
+Link tham khảo game:
+- https://playgameoflife.com
+- https://notes.huy.rocks/posts/game-of-life.html

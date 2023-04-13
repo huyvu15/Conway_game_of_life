@@ -1,0 +1,25 @@
+Đối với lưới (10, 10)
+Bộ 1:
+cell1[5,5] = 1
+cell1[4,5] = 1
+cell1[4,4] = 1
+cell1[4,3] = 1
+cell1[5,3] = 1
+cell1[6,3] = 1
+cell1[6,5] = 1
+cell1[6,4] = 1
+Bộ 2:
+cell[4,5] = 1
+cell[4,4] = 1
+cell[5,4] = 1
+cell[5,5] = 1
+Bộ 3:
+cell[4,5] = 1
+cell[4,4] = 1
+cell[5,4] = 1
+Bộ 4:
+cell[3, 4] = 1
+cell[4, 4] = 1
+cell[5, 4] = 1
+Bộ 5: 
+Đang update

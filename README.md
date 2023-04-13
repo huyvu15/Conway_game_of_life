@@ -36,6 +36,7 @@ Link tham khảo game:
 - Hiện tại vẫn chưa nghĩ ra cách nào để nhập vào tọa độ ô sống mong muốn (nhập từng tọa độ 1 thì lâu quá trong khi người dùng chỉ
 muốn chọn trực tiếp ô thay vì phải chạy qua từng ô 1 trong lưới
 - Ai thiện chí có thể tham khảo code của mình rồi đưa ra lời khuyên
+- Chương trình bỏ qua độ phức tạp chỉ biết là nó chạy đc :)))))
 - Chương trình chưa tối ưu, một số hàm ko dùng đến nhưng vẫn cho vào để đảm bảo đủ hàm theo hướng dẫn
 - Chương trình chỉ là thuật toán bên trong trò chơi chưa áp dụng GUI, users có thể fork về sử dụng thư viện **Life** của tác giả để tạo GUI  
 > > py -m pip install life
